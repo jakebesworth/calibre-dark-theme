@@ -11,7 +11,7 @@
 1. Copy contents of CSS file
 2. Open an ebook or document
 3. On the (left side) menu open `Preferences`
-4. In `Preferences > Userstyle` paste contents of CSS file
+4. In `Preferences > Userstyle` paste contents of CSS file, click `OK`
 5. In `Preferences > Theming` click `Save`
 
 ## Resources
